@@ -1,6 +1,10 @@
 # DSC8307 Assignment 2 — Data Mining, Modeling and Analytics
 
-**Programme:** Master of Science in Data Science and Analytics  
+**Programme:** Master of Science in Data Science and Analytics
+# Project 1 — Wholesale Customer Segmentation
+**Name:** ATUHAIRE PAULINE 
+**REG Number:** S25M19/016
+**Access Number:** B35093
 **Year:** 2  
 **Semester:** Advent 2026  
 **Course code:** DSC8307  
